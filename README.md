@@ -1,5 +1,4 @@
 # Nextjs-Design-Jam-2024
-🎉 I am thrilled to announce that I have successfully completed Day 1 of the Q2 Marketplace Builder Hackathon 2025! This day was all about laying a strong foundation for my e-commerce marketplace project, and here's a detailed summary of what I accomplished:
 
 1️⃣ Marketplace Type Selection: I carefully chose the General E-Commerce model for my marketplace, with a specific focus on Clothing. This decision aligns with my goal to offer a diverse range of fashion products to customers.
 
